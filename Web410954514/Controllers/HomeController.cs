@@ -26,5 +26,11 @@ namespace Web410954514.Controllers
 
             return View();
         }
+        public ActionResult HW1()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
