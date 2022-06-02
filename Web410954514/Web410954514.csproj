@@ -123,7 +123,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\TESTController.cs" />
     <Compile Include="Controllers\WaterController.cs" />
-    <Compile Include="Models\DefaultController.cs" />
+    <Compile Include="Models\student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
