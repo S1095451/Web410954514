@@ -137,13 +137,6 @@
     <Content Include="..\..\Index.cshtml">
       <Link>Views\Water\Index.cshtml</Link>
     </Content>
-    <Content Include="web.config" />
-    <None Include="web.Debug.config">
-      <DependentUpon>web.config</DependentUpon>
-    </None>
-    <None Include="web.Release.config">
-      <DependentUpon>web.config</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Start\" />
