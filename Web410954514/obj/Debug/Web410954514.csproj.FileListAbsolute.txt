@@ -1,0 +1,2 @@
+C:\Users\jason\Pictures\Web410954514\Web410954514\obj\Debug\Web410954514.csproj.AssemblyReference.cache
+C:\Users\jason\Pictures\Web410954514\Web410954514\obj\Debug\Web410954514.csproj.CoreCompileInputs.cache
